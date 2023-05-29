@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Multiply",
+            "request": "launch",
+            "mainClass": "Multiply",
+            "projectName": "LetsLearnGit_2f65c39e"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
